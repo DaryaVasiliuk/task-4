@@ -1,0 +1,6 @@
+#main-container {
+  place-items: center center;
+}
+ #sing-in-form {
+  max-width: 330px;
+ }
